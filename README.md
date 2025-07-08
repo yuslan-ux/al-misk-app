@@ -1,2 +1,1 @@
-# al-misk-app
-manajemen siswa
+# Welcome to your Dyad app
